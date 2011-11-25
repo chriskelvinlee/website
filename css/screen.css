@@ -39,7 +39,8 @@ h2 {font-size:2em;margin-bottom:0.75em;}
 h3 {font-size:1.5em;line-height:1;margin-bottom:1em; }
 h4 {font-size:1.2em;line-height:1.25;margin-bottom:1.25em; color:#484755;}
 h5 {font-size:.8em;margin-bottom:0.5em; color:#CCCCCC;}
-h6 {font-size:1em;font-weight:bold; collor: #484755}
+h6 {font-size:1em;font-weight:bold; color: #484755}
+h7 {font-size:1em;font-weight:normal; font-style: italic; color: #484755}
 h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {margin:0;}
 p {margin:0 0 1.5em;}
 .left {float:left !important;}
@@ -57,6 +58,7 @@ address {margin:0 0 1.5em;font-style:italic;}
 del {color:#666;}
 pre {margin:1.5em 0;white-space:pre;}
 pre, code, tt {font:1em 'andale mono', 'lucida console', monospace;line-height:1.5;}
+li {padding-left:10px;}
 li ul, li ol {margin:0;}
 ul, ol {margin:0 1.5em 1.5em 0;padding-left:1.5em;}
 ul {list-style-type:disc;}
