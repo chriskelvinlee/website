@@ -320,6 +320,7 @@ div.icon:hover {
     
 } 
 li.member {
+    padding-left:0px;
     list-style:none;
     height:28px;
 }
