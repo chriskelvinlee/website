@@ -14,7 +14,7 @@ h1 {font-size:3em;line-height:1; color:#C3D9FF; text-align:center;}
 ----------------------------------------------------------------------- */
 
 /* reset.css */
-html {margin:0;padding:0;border:0; position: absolute;}
+html {margin:0;padding:0;border:0; position: absolute; left:30px;}
 
 body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section {margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 article, aside, details, figcaption, figure, dialog, header, footer, hgroup, menu, nav, section {display:block;}
